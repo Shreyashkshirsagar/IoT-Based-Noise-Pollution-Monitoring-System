@@ -1,2 +1,3 @@
 # IoT-Based-Noise-Pollution-Monitoring-System
 This Repository is Beneficial for People Looking for Sensor based Project Related to IoT. Here I have depicted a entire working Sensor Project for Noise Pollution monitoring System. 
+A Noise Pollution Monitoring System is an innovative technological solution designed to measure, analyze, and manage noise levels in urban and industrial areas. It employs advanced sensing and data processing technologies to provide real-time and accurate information about noise pollution, helping policymakers, environmental agencies, and communities make informed decisions and take appropriate actions to mitigate its adverse effects.
