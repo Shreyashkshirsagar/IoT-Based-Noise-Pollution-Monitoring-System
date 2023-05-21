@@ -1,0 +1,14 @@
+Hardware Requirements :
+1 laptop 
+1 breadboard
+3 jumper wires 
+1 ESP32 DEVKIT V1
+1 Sound Sensor (KY-038)
+1 Any Source Of Sound
+
+Software Requirements :
+1. Operating System : Ubuntu / ArcoLinux / Other Linux Distribution
+2. Java
+3. Arduino IDE , Blynk Cloud Platform 
+4. Arduino Libraries : WiFi.h , WiFiClient.h , BlynkSimpleESP32.h
+5. Board For Arduino IDE : DOIT ESP32 DEVKIT V1
